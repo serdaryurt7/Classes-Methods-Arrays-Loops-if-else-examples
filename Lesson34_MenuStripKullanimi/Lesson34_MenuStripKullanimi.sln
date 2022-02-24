@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson34_MenuStripKullanimi", "Lesson34_MenuStripKullanimi\Lesson34_MenuStripKullanimi.csproj", "{A9199048-BC95-4396-8788-8B0551FC3191}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chart_Grafik", "Chart_Grafik\Chart_Grafik.csproj", "{6B1F2A22-8245-4F15-AF3F-DC4AF821AC3F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9199048-BC95-4396-8788-8B0551FC3191}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9199048-BC95-4396-8788-8B0551FC3191}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9199048-BC95-4396-8788-8B0551FC3191}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9199048-BC95-4396-8788-8B0551FC3191}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B1F2A22-8245-4F15-AF3F-DC4AF821AC3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B1F2A22-8245-4F15-AF3F-DC4AF821AC3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B1F2A22-8245-4F15-AF3F-DC4AF821AC3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B1F2A22-8245-4F15-AF3F-DC4AF821AC3F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {05BE776B-BB40-4B90-BDA4-04F14FFD531F}
+	EndGlobalSection
+EndGlobal
